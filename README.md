@@ -10,5 +10,7 @@ def usd_to_inr(usd):
 n = int(input("enter your usd number: "))
 <br>
 print(f"the coresponding inr number is {usd_to_inr(n)}")
+
+author - jahirul sk
               
     
